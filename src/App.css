@@ -1,0 +1,18 @@
+body {
+  background: black;
+  color : whitesmoke
+}
+
+.card-img-top {
+    width: 50%;
+    height: 25vw;
+    object-fit: cover;
+}
+
+.imageEdit{
+    /* width: 30%; */
+    /* height: 30vw; */
+    object-fit: cover;
+    text-align: center;
+}
+
